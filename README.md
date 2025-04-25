@@ -12,7 +12,7 @@ This project focuses on **credit risk analysis**, where we leverage **machine le
 
 🤖 **Machine Learning Model Training**:
 
-  - Implementing multiple models: Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.
+  - Implementing multiple models: Logistic Regression, Random Forest, and XGBoost.
   - Training on cleaned and normalized data for improved predictive performance.
 
 🎯 **Model Evaluation & Optimization**:
